@@ -1,0 +1,2 @@
+# Twitter_Sentiment_Analysis
+The project uses text-blob library and use the twitter API. Twitter is like the best psychology tool to see how the people are reacting to a certain topic of our choice. This enables us to see the polarity and subjectivity related to the topic of our choice. In this we have considered the reaction of people to the announcement by Arsene wenger, the football manager of the Arsenal Football Club who recently announced that he would set down after the season. So let's see how the twitter reacts!!!! 
